@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15 Sep, 2019, 9:10:00 AM
+    Author     : 91891
+*/
+body
+{
+    margin: 20px;
+    background-image: url("bg.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+
+
+ .header
+ {
+     background-color: #ff9999;
+     background-image: url("logo.jpg");
+     background-repeat: no-repeat;
+     background-size: 180px;
+     font-family: "Comic Sans MS", cursive, sans-serif;
+     font-size: 30px;
+     float: left;
+     height: 100px;
+     width: 100%;
+     margin: 10px;
+     
+ }
+ 
+ #leftbox
+{
+    
+    height: 400px;
+    width: 30%;
+    background-color: #33ffff;
+    float: left;
+    margin: 10px;
+}
+
+#rightbox
+{
+    height: 400px;
+    width: 65%;
+    background-color: #9999ff;
+    float: right;
+    margin: 20px;
+    
+}
+.footer
+{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 96%;
+    margin: 10px;
+    background-color: #6666ff;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 16px;
+    text-align: center;
+        
+}
+
